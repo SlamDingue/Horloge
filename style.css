@@ -12,17 +12,23 @@
 }
 
 .aurore {
+    background-color: #624E88; 
 }
 
 .matin {
+    background-color: #8967B3;
 }
 
 .apres-midi {   
+    background-color: blueviolet;
 }
 
 .soiree {
+    background-color: beige;
 }
 
+
 .nuit {
+    background-color: blueviolet;
 }
 
